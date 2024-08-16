@@ -8,7 +8,7 @@ Fibonacci is a sequence of numbers in which each number is the sum of the two pr
 2. Loop through `n` times, where `n` is the number of Fibonacci numbers to generate.
 3. Calculate the next Fibonacci number by adding `a` and `b`, then assign the value of `b` to `a` and the value of the next Fibonacci number to `b`.
 
-## js Pseudocode
+## Pseudocode
 
 ```javascript
 const fibonacci = (n) => {
